@@ -1,2 +1,0 @@
-# budget-tool
-Budgeting tool
